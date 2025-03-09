@@ -1,5 +1,5 @@
 # challenge-amigosecreto
-Challenge da One Alura
+
 Challenge do curso de programacao inicial da One
 Desafio Amigo Secreto
 
