@@ -1,7 +1,5 @@
 Este é um projeto simples desenvolvido em JavaScript, onde os usuários podem adicionar nomes a uma lista e, ao clicar no botão "Sortear", um nome é escolhido aleatoriamente e destacado na cor verde claro.
 
-
-
 🚀 Funcionalidades
 
 ✅ Adicionar nomes à lista clicando no botão "Adicionar Nome".
@@ -16,7 +14,6 @@ HTML → Estrutura do projeto.
 CSS → Estilização da interface.
 
 JavaScript → Lógica do sorteio e interações.
-
 
 📌 Como usar
 
