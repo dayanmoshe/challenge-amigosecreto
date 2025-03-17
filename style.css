@@ -1,11 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 
 :root {
-    --color-primary: #2C003E;  /* Roxo escuro */
-    --color-secondary: #FFD166; /* Amarelo pastel */
-    --color-tertiary: #06D6A0; /* Verde neon */
-    --color-button: #EF476F; /* Rosa forte */
-    --color-button-hover: #FF69B4; /* Rosa claro */
+    --color-primary: #670190;  /* Roxo escuro */
+    --color-secondary: #fab81d; /* Amarelo pastel */
+    --color-tertiary: #00ffbb; /* Verde neon */
+    --color-button: #f42958; /* Rosa forte */
+    --color-button-hover: #f44da0; /* Rosa claro */
     --color-text: #F8F8F8;
     --color-white: #FFFFFF;
 }
