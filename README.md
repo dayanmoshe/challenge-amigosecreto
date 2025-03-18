@@ -2,7 +2,7 @@
 Challenge do curso de programacao inicial da One
 Desafio Amigo Secreto
 
-Este é um projeto simples desenvolvido em JavaScript, onde os usuários podem adicionar nomes a uma lista e, ao clicar no botão "Sortear", um nome é selecionado aleatoriamente e destacado na cor vermelha.
+Este é um projeto simples desenvolvido em JavaScript, onde os usuários podem adicionar nomes a uma lista e, ao clicar no botão "Sortear", um nome é selecionado aleatoriamente e destacado na cor vermelha
 
 🚀 Funcionalidades
 
