@@ -1,21 +1,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
 
 :root {
-<<<<<<< HEAD
     --color-primary: #ffcc00; /* Amarelo pastel */
     --color-secondary: #f5f5dc; /* Bege clássico */
     --color-tertiary: #ff6699; /* Rosa vibrante */
     --color-button: #008080; /* Verde água */
     --color-button-hover: #006666; /* Verde água escuro */
     --color-text: #4B0082; /* Roxo escuro */
-=======
-    --color-primary: #670190;  /* Roxo escuro */
-    --color-secondary: #fab81d; /* Amarelo pastel */
-    --color-tertiary: #00ffbb; /* Verde neon */
-    --color-button: #f42958; /* Rosa forte */
-    --color-button-hover: #f44da0; /* Rosa claro */
-    --color-text: #F8F8F8;
->>>>>>> 976fbecab13bc54838d1adfb60f64674e0724cbb
     --color-white: #FFFFFF;
   }
   
@@ -24,36 +15,20 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-<<<<<<< HEAD
     font-family: "Press Start 2P", cursive; /* Fonte retrô estilo pixel */
   }
   
   body {
     height: 100vh;
     background: linear-gradient(45deg, var(--color-primary), var(--color-tertiary));
-=======
-    font-family: 'Inter', sans-serif;
-}
-
-body {
-    height: 100vh;
-    background: linear-gradient(135deg, #240046, #5A189A);
->>>>>>> 976fbecab13bc54838d1adfb60f64674e0724cbb
     display: flex;
     justify-content: center;
     align-items: center;
     color: var(--color-text);
-<<<<<<< HEAD
   }
   
   /* Estrutura principal */
   .main-content {
-=======
-    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
-}
-
-.main-content {
->>>>>>> 976fbecab13bc54838d1adfb60f64674e0724cbb
     display: flex;
     flex-direction: column;
     align-items: center; /* Centraliza os elementos filhos horizontalmente */
@@ -70,7 +45,6 @@ body {
     flex-direction: column; /* Organiza título e imagem em coluna */
     justify-content: center;
     align-items: center;
-<<<<<<< HEAD
     padding: 20px 0;
     width: 100%;
     max-width: 600px; /* Limita a largura do banner */
@@ -87,22 +61,10 @@ body {
     background: var(--color-secondary);
     border: 4px dashed var(--color-tertiary);
     border-radius: 30px;
-=======
-    padding: 40px 0 0;
-}
-
-/* Seção de entrada */
-.input-section {
-    flex: 60%;
-    background: var(--color-secondary);
-    border: 3px solid var(--color-primary);
-    border-radius: 64px 64px 0 0;
->>>>>>> 976fbecab13bc54838d1adfb60f64674e0724cbb
     display: flex;
     flex-direction: column;
     align-items: center;
     padding: 30px;
-<<<<<<< HEAD
     width: 90%;
     max-width: 600px;
     box-shadow: 6px 6px 0px var(--color-text);
@@ -126,32 +88,6 @@ body {
   
   /* Inputs e botões */
   .input-wrapper {
-=======
-    width: 100%;
-    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.3);
-}
-
-/* Títulos */
-.main-title {
-    font-size: 36px;
-    font-family: "Press Start 2P", cursive;
-    font-weight: 900;
-    color: var(--color-white);
-    text-align: center;
-}
-
-.section-title {
-    font-family: "Press Start 2P", cursive;
-    font-size: 24px;
-    font-weight: 700;
-    color: var(--color-primary);
-    text-align: center;
-    margin: 20px 0;
-}
-
-/* Contêiner de entrada e botão */
-.input-wrapper {
->>>>>>> 976fbecab13bc54838d1adfb60f64674e0724cbb
     display: flex;
     justify-content: center;
     width: 100%;
@@ -161,7 +97,6 @@ body {
   
   .input-name {
     width: 100%;
-<<<<<<< HEAD
     padding: 12px;
     border: 3px solid var(--color-text);
     border-radius: 15px 0 0 15px;
@@ -293,24 +228,3 @@ body {
     }
   }
   }
-=======
-    padding: 10px;
-    border: 3px solid var(--color-primary);
-    border-radius: 25px 0 0 25px;
-    font-size: 16px;
-    background: var(--color-tertiary);
-    color: var(--color-primary);
-    font-weight: bold;
-}
-
-/* Botões */
-button {
-    padding: 15px 30px;
-    font-size: 16px;
-    font-weight: bold;
-    text-transform: uppercase;
-    border: 3px solid var(--color-primary);
-    border-radius: 25px;
-    background: var(--color-button);
-    color
->>>>>>> 976fbecab13bc54838d1adfb60f64674e0724cbb
